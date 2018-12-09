@@ -1,7 +1,7 @@
 # Surfs-Up
 Homework Assignment 10
 
-### SQLAlchemy, Pandas, and Matplotlib Analysis
+### Hawaiian Vacation Spot SQLAlchemy, Pandas, and Matplotlib Analysis
 surfs_up.ipynb
 
 ### Hawaiian Vacation Weather Data API 
