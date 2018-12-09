@@ -1,7 +1,7 @@
 # Surfs-Up - Hawaiian Vacation Spot Weather
 Homework Assignment 10
 
-### Hawaiian Vacation Spot SQLAlchemy, Pandas, and Matplotlib Weather Analysis
+### Hawaiian Vacation Spot SQLAlchemy with Pandas, and Matplotlib Weather Analysis
 surfs_up.ipynb
 
 ### Hawaiian Vacation Weather Data API 
