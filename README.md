@@ -12,4 +12,4 @@ climate_app.py
 * /api/v1.0/yyyy-mm-dd/
 * /api/v1.0/yyyy-mm-dd/yyyy-mm-dd/
 
-*The data, SQLite files and Excel examples, can be found in the resources folder.
+*The data, necessary SQLite file and Excel examples, can be found in the resources folder.
